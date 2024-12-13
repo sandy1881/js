@@ -12,3 +12,13 @@ let isLoggedIn =true;
 let booleanIsloggedIn =(Boolean(isLoggedIn));
 
 console.log(booleanIsloggedIn)
+
+let str1 ="hello"
+let str2= " sandesh"
+let str3 = str1+str2;
+console.log(str3)
+
+console.log("1" + 2)
+console.log(1 +"2")
+console.log("1"+2+2)
+console.log(1 +2 +"2")
